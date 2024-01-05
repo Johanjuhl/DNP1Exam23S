@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{D152A9F8-E005-42C6-AAE7-E7E7B4B0F6A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor", "Blazor\Blazor.csproj", "{AA28B7CF-B833-4708-BFF7-9B32EC6F59A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{21B9BD56-0904-432E-8490-757EBC36A91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D152A9F8-E005-42C6-AAE7-E7E7B4B0F6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D152A9F8-E005-42C6-AAE7-E7E7B4B0F6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D152A9F8-E005-42C6-AAE7-E7E7B4B0F6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D152A9F8-E005-42C6-AAE7-E7E7B4B0F6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA28B7CF-B833-4708-BFF7-9B32EC6F59A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA28B7CF-B833-4708-BFF7-9B32EC6F59A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA28B7CF-B833-4708-BFF7-9B32EC6F59A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA28B7CF-B833-4708-BFF7-9B32EC6F59A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B9BD56-0904-432E-8490-757EBC36A91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B9BD56-0904-432E-8490-757EBC36A91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B9BD56-0904-432E-8490-757EBC36A91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B9BD56-0904-432E-8490-757EBC36A91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
